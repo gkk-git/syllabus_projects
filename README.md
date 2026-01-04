@@ -1,0 +1,8 @@
+# Data Analyst Syllabus
+## Datamites, Coimbatore
+
+Courses:
+1. Data Analytics Foundation
+2. Statistics Essentials
+3. Data Analysis Associate
+4. Advanced Data Analytics
