@@ -1,5 +1,5 @@
 # Data Analyst Syllabus: Nov 01, 2025
-## Datamites, Coimbatore
+## Datamites, Chennai
 
 Courses:
 1. Data Analytics Foundation
