@@ -1,7 +1,7 @@
 # Data Analyst Syllabus: Nov 01, 2025
 ## Datamites, Coimbatore
 
-Courses:
+Modules:
 1. Data Analytics Foundation
 2. Statistics Essentials
 3. Data Analysis Associate
