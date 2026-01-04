@@ -1,4 +1,4 @@
-# Data Analyst Syllabus
+# Data Analyst Syllabus: Nov 01, 2025
 ## Datamites, Coimbatore
 
 Courses:
