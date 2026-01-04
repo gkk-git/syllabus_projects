@@ -1,0 +1,1 @@
+This project is about courses for Data Analysts at Datamites, Coimbatore.
